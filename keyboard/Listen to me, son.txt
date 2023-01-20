@@ -1,0 +1,4 @@
+enter the text you want the bot to write in the console and wait a few seconds
+
+-------------------
+import pyautogui
